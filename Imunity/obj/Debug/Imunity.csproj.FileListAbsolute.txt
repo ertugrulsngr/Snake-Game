@@ -1,0 +1,8 @@
+C:\Users\ertug\Desktop\Imunity\Imunity\bin\Debug\Imunity.exe.config
+C:\Users\ertug\Desktop\Imunity\Imunity\bin\Debug\Imunity.exe
+C:\Users\ertug\Desktop\Imunity\Imunity\bin\Debug\Imunity.pdb
+C:\Users\ertug\Desktop\Imunity\Imunity\obj\Debug\Imunity.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Imunity\Imunity\obj\Debug\Imunity.csproj.SuggestedBindingRedirects.cache
+C:\Users\ertug\Desktop\Imunity\Imunity\obj\Debug\Imunity.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Imunity\Imunity\obj\Debug\Imunity.exe
+C:\Users\ertug\Desktop\Imunity\Imunity\obj\Debug\Imunity.pdb
